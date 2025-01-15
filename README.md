@@ -14,4 +14,5 @@ This project showcases my **skills**, **projects**, and **experiences** as a dev
 - **Dark Mode**: Toggle between light and dark themes.
 
 ---
-
+## 🌐 Live Demo
+Check out my live portfolio here: [Live Portfolio](https://priyanka2429.github.io/My_Portfolio/)
